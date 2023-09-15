@@ -45,8 +45,29 @@ Make sure you have Python installed on your computer. You can download it from t
 
 To encrypt a message, run the script with the 'encode' argument, providing the message and shift value:
 
-  ```bash
-  python caesar_cipher.py encode
+    ```bash
+    python caesar_cipher.py encode
+    
+Follow the on-screen prompts to enter your message and shift value. The encrypted message will be displayed.
+
+### Decrypt a Message
+To decrypt a message, run the script with the 'decode' argument, providing the message and shift value:
+
+    ```bash
+    python caesar_cipher.py decode
+    
+Follow the on-screen prompts to enter your message and shift value. The decrypted message will be displayed.
+
+### Contributing
+If you would like to contribute to this project, please read our Contribution Guide for detailed instructions.
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Thank you for using the Caesar Cipher in Python! If you have any questions or encounter any issues, feel free to open an issue.
+
+This section provides instructions on how to use your Caesar Cipher script for both encryption and decryption.
+
 
 
 
