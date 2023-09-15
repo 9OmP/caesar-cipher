@@ -1,7 +1,6 @@
 # Caesar Cipher in Python
 
-    ```python
-    logo = """           
+    ```      
      ,adPPYba, ,adPPYYba,  ,adPPYba, ,adPPYba, ,adPPYYba, 8b,dPPYba,  
     a8"     "" ""     `Y8 a8P_____88 I8[    "" ""     `Y8 88P'   "Y8  
     8b         ,adPPPPP88 8PP"""""""  `"Y8ba,  ,adPPPPP88 88          
@@ -17,7 +16,6 @@
      `"Ybbd8"' 88 88`YbbdP"'  88       88  `"Ybbd8"' 88          
                   88                                             
                   88           
-    """
 
 
 This Python script allows you to encrypt and decrypt messages using the Caesar Cipher. The Caesar Cipher is one of the simplest and most widely known encryption techniques. It's a type of substitution cipher in which each letter in the plaintext is shifted a certain number of places down or up the alphabet.
